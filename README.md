@@ -24,7 +24,7 @@ This project is a **Location Flow** app built with **React** and **Leaflet** for
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/location-flow-app.git
+git clone https://github.com/Utkarsh300503/location-flow-app.git
 
 ````
 
